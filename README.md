@@ -12,7 +12,7 @@ an interactive sales dashboard.
 - Data Cleaning
 
  Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](Screenshot 2026-05-02 214532.png)
 
  Key Insights
 - Technology category has the highest sales and profit
